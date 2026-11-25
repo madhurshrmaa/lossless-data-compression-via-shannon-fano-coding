@@ -1,4 +1,4 @@
-# CS 3358 Honors Credit — Project 5B: Lossless Data Compression via Shannon-Fano Coding
+# CS 3358 Honors Credit Project 5B: Lossless Data Compression via Shannon-Fano Coding
 
 **Author:** Madhur Sharma  
 **Course:** CS 3358: Data Structures & Algorithms (Fall 2026)  
